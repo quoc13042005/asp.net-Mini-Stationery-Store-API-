@@ -34,3 +34,4 @@
 /Users/macos/Documents/asp.net/lab01/Mini-Stationery-Store-API /StationeryStore.Api/obj/Debug/net10.0/StationeryStore.Api.pdb
 /Users/macos/Documents/asp.net/lab01/Mini-Stationery-Store-API /StationeryStore.Api/obj/Debug/net10.0/StationeryStore.Api.genruntimeconfig.cache
 /Users/macos/Documents/asp.net/lab01/Mini-Stationery-Store-API /StationeryStore.Api/obj/Debug/net10.0/ref/StationeryStore.Api.dll
+/Users/macos/Documents/asp.net/lab01/Mini-Stationery-Store-API /StationeryStore.Api/obj/Debug/net10.0/StationeryStore.Api.sourcelink.json

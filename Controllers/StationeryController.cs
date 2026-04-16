@@ -9,7 +9,6 @@ public class StationeryController : ControllerBase
 {
     private readonly StationeryService _service;
 
-    // Tiêm Service vào Controller
     public StationeryController(StationeryService service)
     {
         _service = service;
@@ -25,7 +24,7 @@ public class StationeryController : ControllerBase
             item.Category,
             item.Price,
             item.Stock,
-            Status = _service.CheckStockLevel(item.Stock) // Tính toán trạng thái tồn kho
+            Status = _service.CheckStockLevel(item.Stock) 
         });
 
         return Ok(result);
