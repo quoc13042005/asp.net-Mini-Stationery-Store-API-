@@ -1,0 +1,6 @@
+@StationeryStore.Api_HostAddress = http://localhost:5201
+
+GET {{StationeryStore.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
